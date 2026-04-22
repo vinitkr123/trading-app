@@ -1,0 +1,17 @@
+## Mobile
+mobile/node_modules/
+mobile/.expo/
+mobile/dist/
+mobile/.env
+
+## Backend
+backend/target/
+backend/.mvn/wrapper/maven-wrapper.jar
+backend/*.log
+backend/.env
+
+## IDE
+.idea/
+*.iml
+.vscode/
+.DS_Store
